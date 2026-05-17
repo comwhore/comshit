@@ -26,3 +26,7 @@ Browser **userscripts** (Tampermonkey, Violentmonkey, etc.) that add a dump butt
 - Most scripts support **Stop** mid-run and may resume state in `sessionStorage` until you close the tab.
 - Sites change their DOM often; if a button never appears or the CSV is empty, the selectors in that script may need updating, so make an issue about it.
 - Use responsibly and follow each platform’s terms of service.
+
+# PRs appreciated when something breaks
+
+# If you want a service to be added, make an issue, and I'll think about it. Maybe.
